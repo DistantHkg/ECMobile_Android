@@ -6,4 +6,5 @@ public class TextAAAA {
 	String bb="adffdf";
 	//乱写测试
 	String cc="aaaaaaa";
+	//123456
 }
